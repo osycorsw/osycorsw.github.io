@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://osycorsw.github.io/sitemap/sitemap.txt
